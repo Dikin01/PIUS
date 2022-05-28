@@ -1,0 +1,12 @@
+{
+    "name": "labs/lab1",
+    "description": "my lab1",
+    "type": "project",
+    "require": {
+        "symfony/validator": "^6.0",
+        "doctrine/annotations": "^1.13",
+        "symfony/cache": "^6.0"
+    },
+    "license": "not",
+    "minimum-stability": "stable"
+}
